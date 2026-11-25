@@ -1,5 +1,5 @@
 name: ple-claude-opus-harness
-model_api: gemini/gemini-2.5-flash
+model_api: google-cloud/claude-opus-5-5
 
 install: >-
   uv venv --python 3.12 /opt/harness/venv
